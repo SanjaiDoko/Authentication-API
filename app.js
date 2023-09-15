@@ -24,8 +24,7 @@ app.use(
     ],
   })
 );
-
-
+console.log("run")
 let options = {
   connectTimeoutMS: 30000,
   useNewUrlParser: true,
