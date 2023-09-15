@@ -25,7 +25,6 @@ app.use(
   })
 );
 
-
 let options = {
   connectTimeoutMS: 30000,
   useNewUrlParser: true,
